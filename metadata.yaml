@@ -1,0 +1,50 @@
+_repo: The-Airlords-of-Han_25438
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nowlan, Philip Francis
+    birthdate: 1888
+    deathdate: 1940
+    gutenberg_agent_id: '31334'
+    url: http://www.gutenberg.org/2009/agents/31334
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Francis_Nowlan
+description: "Armageddon 2419 A.D. is a science fiction novella by Philip Francis\
+  \ Nowlan which first appeared in the August 1928 issue of the pulp magazine Amazing\
+  \ Stories. A sequel called The Airlords of Han was published in the March 1929 issue\
+  \ of Amazing Stories. Both stories are now in the public domain in the US according\
+  \ to the Project Gutenberg website. In the 1960s, Nowlan's two novellas were combined\
+  \ by editor Donald A. Wollheim into one paperback novel, titled Armageddon 2419\
+  \ A.D. The characters and setting eventually evolved into Buck Rogers.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25438'
+  wikidata: Q676538
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcc 'PS'
+title: The Airlords of Han
+url: http://www.gutenberg.org/ebooks/25438
+wikipedia:
+- https://sh.wikipedia.org/wiki/Armageddon_2419_A.D.
+- https://de.wikipedia.org/wiki/Armageddon_2419_A.D.
+- https://en.wikipedia.org/wiki/Armageddon_2419_A.D.
+- https://pt.wikipedia.org/wiki/Armageddon_2419_A.D.
