@@ -27,6 +27,8 @@ description: "Armageddon 2419 A.D. is a science fiction novella by Philip Franci
   \ by editor Donald A. Wollheim into one paperback novel, titled Armageddon 2419\
   \ A.D. The characters and setting eventually evolved into Buck Rogers.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25438#The-Airlords-of-Han
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-05-11'
 gutenberg_type: Text
